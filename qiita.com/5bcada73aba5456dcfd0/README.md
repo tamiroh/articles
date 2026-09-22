@@ -1,8 +1,8 @@
 ---
-title: "Web ブラウザ上で Local LLM 同士がお喋りするサイトを作った"
+title: "Web ブラウザで Local LLM 同士がお喋りするサイトを作った"
 url: "https://qiita.com/tamiroh/items/5bcada73aba5456dcfd0"
 created_at: "2026-09-20T23:58:26+09:00"
-updated_at: "2026-09-21T16:19:05+09:00"
+updated_at: "2026-09-21T23:01:42+09:00"
 tags: ["AI", "生成AI", "Chrome", "LocalLLM", "LLM"]
 ---
 
